@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Oiii! Eu sou o Abilio Fernandes da Silva!!! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+## Desenvolvedor Python e Apaixonado por Análise de Dados <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p>Estou cursando o 6ª semestre do curso Ciência da Computação na universidade UniRitter.</p>
 <p>Eu aspiro ser um cientista de dados e para isso venho estudando e reforçando o meu conhecimento com cursos extras curriculares.</p>
 <p>Aspiro ser um cientista de dados.</p>
