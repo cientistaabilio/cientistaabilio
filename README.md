@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ## Desenvolvedor Python e Apaixonado por Análise de Dados <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p>Estou cursando o 6ª semestre do curso Ciência da Computação na universidade UniRitter.</p>
 <p>Eu aspiro ser um cientista de dados e para isso venho estudando e reforçando o meu conhecimento com cursos extras curriculares.</p>
-<p>Aspiro ser um cientista de dados.</p>
 <p>Abaixo você verá um pouco do que eu já sei e que a cada dia procuro melhorar.</p>
 <img align="right" style="border-radius:50px;" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
