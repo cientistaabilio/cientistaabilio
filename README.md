@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Desenvolvedor Python e Apaixonado por Análise de Dados <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p>Atualmente estou no 7º semestre do curso de Ciência da Computação na Universidade UniRitter.</p>
+<p>Atualmente estou no 8º semestre do curso de Ciência da Computação na Universidade UniRitter.</p>
 
 <p>Meu objetivo é me tornar um cientista de dados, e para alcançá-lo, estou constantemente aprimorando meu conhecimento através de cursos extracurriculares.</p>
 
